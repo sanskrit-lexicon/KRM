@@ -1,0 +1,26 @@
+code|description|count|# other variations|
+----|-----------|-----|-----|
+3|no drop|162|0|
+3A|drop final A|17|0|
+3I|drop final I|54|0|
+3N|drop final N|50|0|
+3R|drop final R|2|0|
+3U|drop final U|24|0|
+3Uz|drop final Uz|3|0|
+3Y|drop final Y|43|0|
+3a|drop final a|1114|11|
+3az|drop final az|2|0|
+3e|drop final e|16|0|
+3f|drop final f|171|0|
+3i|drop final i|28|0|
+3ir|drop final ir|30|0|
+3k|drop final k|2|0|
+3nasal|insert nasal|267|5|
+3o|drop final o|4|0|
+3p|drop final p|2|0|
+3u|drop final u|128|0|
+3w|drop final w|1|0|
+3x|drop final x|17|0|
+3z|drop final z|3|0|
+?|unmatched|9|0|
+S|special|125|125|

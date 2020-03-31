@@ -1,0 +1,5 @@
+code|description|count|
+----|-----------|-----|
+S|Special|134|
+NC|no extra change|2124|
+12|cC -> C|16|

@@ -1,0 +1,18 @@
+code|description|count|
+----|-----------|-----|
+S|Special|126|
+NC|no extra change|1780|
+00|^R -> n|34|
+01|^z -> s|44|
+02|^zw -> st|14|
+03|^zW -> sT|2|
+04|^zR -> sn|7|
+05|nc -> Yc|15|
+06|nj -> Yj|4|
+07|nS -> MS|3|
+08|ns -> Ms|2|
+09|nB -> mB|8|
+10|nP -> mP|6|
+11|np -> mp|3|
+12|cC -> C|10|
+13|sj -> jj|3|

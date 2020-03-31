@@ -1,0 +1,18 @@
+code|description|count|# other variations|
+----|-----------|-----|-----|
+3|no drop|161|12|
+3A|drop final A|14|2|
+3I|drop final I|54|1|
+3N|drop final N|49|1|
+3U|drop final U|22|3|
+3Y|drop final Y|42|4|
+3a|drop final a|1024|86|
+3e|drop final e|14|0|
+3f|drop final f|159|8|
+3ir|drop final ir|25|1|
+3nasal|insert nasal|241|7|
+3o|drop final o|4|2|
+3u|drop final u|109|26|
+3x|drop final x|17|2|
+?|unmatched|15|0|
+S|special|111|111|

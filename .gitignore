@@ -1,0 +1,9 @@
+# emacs backup filenames end with ~
+*~
+# temp files
+temp*
+old*
+unused*
+# compiled python
+*.pyc
+__pycache__

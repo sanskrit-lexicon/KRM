@@ -1,0 +1,119 @@
+; Case 0001: mw = ft
+krm: fullroot=ftiH, sense="", L=124, mwcode=S-S
+;
+mdp: ?
+;
+; Case 0002: mw = kizk
+krm: ?
+mdp: fullroot=kizka, sense="hiMsAyAm", sid=10.130-01p, mwcode=3a-NC
+;
+;
+; Case 0003: mw = kxp
+krm: ?
+mdp: fullroot=kxpi, sense="avakalkane", sid=10.183-01, mwcode=3i-NC
+mdp: fullroot=kxpi, sense="sAmarTye", sid=10.183-01p, mwcode=3i-NC
+mdp: fullroot=kxpi, sense="miSrIkaraRe", sid=10.183-02p, mwcode=3i-NC
+;
+;
+; Case 0004: mw = Ku
+krm: fullroot=KuN, sense="Sabde", L=352, mwcode=3N-NC
+;
+mdp: ?
+;
+; Case 0005: mw = ju
+krm: fullroot=ju, sense="gatO vege ca", L=607, mwcode=3-NC
+;
+mdp: ?
+;
+; Case 0006: mw = juYc
+krm: ?
+mdp: fullroot=juci, sense="BAzA-arTaH", sid=10.196-11, mwcode=3nasal-NC
+;
+;
+; Case 0007: mw = jf
+krm: ?
+mdp: fullroot=jf, sense="aBiBave", sid=01.665-01p, mwcode=3-NC
+;
+;
+; Case 0008: mw = dvf
+krm: fullroot=dvf, sense="saMvaraRe", L=890, mwcode=3-NC
+;
+mdp: ?
+;
+; Case 0009: mw = pez
+krm: fullroot=pezf, sense="prayatne", L=1060, mwcode=3f-NC
+;
+mdp: ?
+;
+; Case 0010: mw = Parv
+krm: ?
+mdp: fullroot=Parva, sense="pUraRe", sid=01.373-03, mwcode=3a-NC
+;
+;
+; Case 0011: mw = bul
+krm: fullroot=bula, sense="nimajjane", L=1125, mwcode=3a-NC
+;
+mdp: ?
+;
+; Case 0012: mw = maj
+krm: ?
+mdp: fullroot=maja, sense="Sabda-arTaH", sid=01.155-01p, mwcode=3a-NC
+;
+;
+; Case 0013: mw = varP
+krm: fullroot=varPa, sense="gatO", L=1565, mwcode=3a-NC
+;
+mdp: ?
+;
+; Case 0014: mw = vazk
+krm: ?
+mdp: fullroot=bazka, sense="darSane", sid=10.301-01, mwcode=S-S
+;
+;
+; Case 0015: mw = Sabd
+krm: ?
+mdp: fullroot=Sabda, sense="BAzaRe", sid=10.157-01p, mwcode=3a-NC
+;
+;
+; Case 0016: mw = saG
+krm: ?
+mdp: fullroot=saGa, sense="hiMsAyAm", sid=05.022b-01, mwcode=3a-NC
+;
+;
+; Case 0017: mw = say
+krm: ?
+mdp: fullroot=sayi, sense="gatO", sid=01.312-03p, mwcode=3i-NC
+;
+;
+; Case 0018: mw = sAt
+krm: fullroot=sAtiH, sense="suKe", L=1900, mwcode=S-S
+;
+mdp: ?
+;
+; Case 0019: mw = ?
+krm: fullroot=klevf, sense="sevane", L=291, mwcode=?-?
+krm: fullroot=Caji, sense="kfcCrajIvane", L=561, mwcode=?-?
+krm: fullroot=trakza, sense="gatO", L=784, mwcode=?-?
+krm: fullroot=trisi, sense="BAsArTaH", L=792, mwcode=?-?
+krm: fullroot=Deka, sense="darSane", L=921, mwcode=?-?
+krm: fullroot=pUrRa, sense="saNGAte", L=1039, mwcode=?-?
+krm: fullroot=pUrva, sense="niketane", L=1040, mwcode=?-?
+krm: fullroot=Pula, sense="saYcalane", L=1091, mwcode=?-?
+krm: fullroot=bazka, sense="darSane", L=1107, mwcode=?-?
+krm: fullroot=blezka, sense="darSane", L=1134, mwcode=?-?
+krm: fullroot=Bfzu, sense="hiMsAsaMGAtayoH", L=1175, mwcode=?-?
+krm: fullroot=vuKa, sense="calane", L=1617.1, mwcode=?-?
+krm: fullroot=Sakvf, sense="gatO", L=1671.1, mwcode=?-?
+krm: fullroot=zwrakza, sense="gatO", L=1873, mwcode=?-?
+krm: fullroot=syala, sense="vitarke", L=1975, mwcode=?-?
+mdp: fullroot=veda, sense="yAcane", sid=01.028-02p, mwcode=?-?
+mdp: fullroot=evf, sense="secane", sid=01.328-01p, mwcode=?-?
+mdp: fullroot=krevf, sense="secane", sid=01.328-02p, mwcode=?-?
+mdp: fullroot=peSf, sense="gatO", sid=01.461-02p, mwcode=?-?
+mdp: fullroot=prakza, sense="adane", sid=01.620-01p, mwcode=?-?
+mdp: fullroot=kruN, sense="gatO", sid=01.673-01p, mwcode=?-?
+mdp: fullroot=vfci, sense="varaRe", sid=07.030-01p, mwcode=?-?
+mdp: fullroot=pUrva, sense="niketane", sid=10.112-02p, mwcode=?-?
+mdp: fullroot=laGa, sense="AsvAdane", sid=10.184-04p, mwcode=?-?
+;
+;

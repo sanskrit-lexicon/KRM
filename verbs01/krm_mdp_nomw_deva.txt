@@ -1,0 +1,119 @@
+; Case 0001: mw = ऋत्
+krm: fullroot=ऋतिः, sense=, L=124, mwcode=S-S
+;
+mdp: ?
+;
+; Case 0002: mw = किष्क्
+krm: ?
+mdp: fullroot=किष्क, sense=हिंसायाम्, sid=10.130-01p, mwcode=3a-NC
+;
+;
+; Case 0003: mw = कॢप्
+krm: ?
+mdp: fullroot=कॢपि, sense=अवकल्कने, sid=10.183-01, mwcode=3i-NC
+mdp: fullroot=कॢपि, sense=सामर्थ्ये, sid=10.183-01p, mwcode=3i-NC
+mdp: fullroot=कॢपि, sense=मिश्रीकरणे, sid=10.183-02p, mwcode=3i-NC
+;
+;
+; Case 0004: mw = खु
+krm: fullroot=खुङ्, sense=शब्दे, L=352, mwcode=3N-NC
+;
+mdp: ?
+;
+; Case 0005: mw = जु
+krm: fullroot=जु, sense=गतौ वेगे च, L=607, mwcode=3-NC
+;
+mdp: ?
+;
+; Case 0006: mw = जुञ्च्
+krm: ?
+mdp: fullroot=जुचि, sense=भाषा-अर्थः, sid=10.196-11, mwcode=3nasal-NC
+;
+;
+; Case 0007: mw = जृ
+krm: ?
+mdp: fullroot=जृ, sense=अभिभवे, sid=01.665-01p, mwcode=3-NC
+;
+;
+; Case 0008: mw = द्वृ
+krm: fullroot=द्वृ, sense=संवरणे, L=890, mwcode=3-NC
+;
+mdp: ?
+;
+; Case 0009: mw = पेष्
+krm: fullroot=पेषृ, sense=प्रयत्ने, L=1060, mwcode=3f-NC
+;
+mdp: ?
+;
+; Case 0010: mw = फर्व्
+krm: ?
+mdp: fullroot=फर्व, sense=पूरणे, sid=01.373-03, mwcode=3a-NC
+;
+;
+; Case 0011: mw = बुल्
+krm: fullroot=बुल, sense=निमज्जने, L=1125, mwcode=3a-NC
+;
+mdp: ?
+;
+; Case 0012: mw = मज्
+krm: ?
+mdp: fullroot=मज, sense=शब्द-अर्थः, sid=01.155-01p, mwcode=3a-NC
+;
+;
+; Case 0013: mw = वर्फ्
+krm: fullroot=वर्फ, sense=गतौ, L=1565, mwcode=3a-NC
+;
+mdp: ?
+;
+; Case 0014: mw = वष्क्
+krm: ?
+mdp: fullroot=बष्क, sense=दर्शने, sid=10.301-01, mwcode=S-S
+;
+;
+; Case 0015: mw = शब्द्
+krm: ?
+mdp: fullroot=शब्द, sense=भाषणे, sid=10.157-01p, mwcode=3a-NC
+;
+;
+; Case 0016: mw = सघ्
+krm: ?
+mdp: fullroot=सघ, sense=हिंसायाम्, sid=05.022b-01, mwcode=3a-NC
+;
+;
+; Case 0017: mw = सय्
+krm: ?
+mdp: fullroot=सयि, sense=गतौ, sid=01.312-03p, mwcode=3i-NC
+;
+;
+; Case 0018: mw = सात्
+krm: fullroot=सातिः, sense=सुखे, L=1900, mwcode=S-S
+;
+mdp: ?
+;
+; Case 0019: mw = ?
+krm: fullroot=क्लेवृ, sense=सेवने, L=291, mwcode=?-?
+krm: fullroot=छजि, sense=कृच्छ्रजीवने, L=561, mwcode=?-?
+krm: fullroot=त्रक्ष, sense=गतौ, L=784, mwcode=?-?
+krm: fullroot=त्रिसि, sense=भासार्थः, L=792, mwcode=?-?
+krm: fullroot=धेक, sense=दर्शने, L=921, mwcode=?-?
+krm: fullroot=पूर्ण, sense=सङ्घाते, L=1039, mwcode=?-?
+krm: fullroot=पूर्व, sense=निकेतने, L=1040, mwcode=?-?
+krm: fullroot=फुल, sense=सञ्चलने, L=1091, mwcode=?-?
+krm: fullroot=बष्क, sense=दर्शने, L=1107, mwcode=?-?
+krm: fullroot=ब्लेष्क, sense=दर्शने, L=1134, mwcode=?-?
+krm: fullroot=भृषु, sense=हिंसासंघातयोः, L=1175, mwcode=?-?
+krm: fullroot=वुख, sense=चलने, L=1617.1, mwcode=?-?
+krm: fullroot=शक्वृ, sense=गतौ, L=1671.1, mwcode=?-?
+krm: fullroot=ष्ट्रक्ष, sense=गतौ, L=1873, mwcode=?-?
+krm: fullroot=स्यल, sense=वितर्के, L=1975, mwcode=?-?
+mdp: fullroot=वेद, sense=याचने, sid=01.028-02p, mwcode=?-?
+mdp: fullroot=एवृ, sense=सेचने, sid=01.328-01p, mwcode=?-?
+mdp: fullroot=क्रेवृ, sense=सेचने, sid=01.328-02p, mwcode=?-?
+mdp: fullroot=पेशृ, sense=गतौ, sid=01.461-02p, mwcode=?-?
+mdp: fullroot=प्रक्ष, sense=अदने, sid=01.620-01p, mwcode=?-?
+mdp: fullroot=क्रुङ्, sense=गतौ, sid=01.673-01p, mwcode=?-?
+mdp: fullroot=वृचि, sense=वरणे, sid=07.030-01p, mwcode=?-?
+mdp: fullroot=पूर्व, sense=निकेतने, sid=10.112-02p, mwcode=?-?
+mdp: fullroot=लघ, sense=आस्वादने, sid=10.184-04p, mwcode=?-?
+;
+;
