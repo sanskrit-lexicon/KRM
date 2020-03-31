@@ -1,4 +1,10 @@
 
+This work is incomplete.
+It deals with 
+* mw dictionary
+* Westergaard Dhatupatha
+* Sayana's Madhaviya Dhatuvrtti
+
 Start with two files, produced in 2009.
 
 * mw-wdp.txt
