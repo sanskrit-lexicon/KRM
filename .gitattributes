@@ -1,0 +1,16 @@
+# Auto-detect text files and normalize line endings to LF in the repository.
+* text=auto
+
+# Binary assets (never normalize or diff as text).
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.sqlite binary
+*.ifo binary
+*.idx binary
+*.dz binary
