@@ -1,8 +1,12 @@
 # Changelog
 
-All notable changes to this repository's metadata and documentation are recorded
-here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+All notable changes to the KRM repository's metadata and documentation are recorded here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 The dictionary source text itself is maintained canonically in `csl-orig`.
+
+## [1.0.0] - 2026-06-13
+
+### Changed
+- Released the current changelog state as version 1.
 
 ## [v1.0-triage] - 2026-05-30
 
