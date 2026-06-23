@@ -13,6 +13,7 @@ Development and correction repository for the **_Kṛdantarūpamālā_** (attrib
 | Path | Purpose |
 |---|---|
 | `verbs01/` | Verb-identification: maps KRM roots to MW / Mādhavīya-Dhātuvṛtti headwords |
+| `prefaces/` | Front-matter OCR (title pages, prefaces, forewords, author portrait) of all five volumes, with Russian translations — see [Front matter](#front-matter-prefaces) below |
 | `CITATION.cff` | Machine-readable citation metadata |
 | `DATA_DICTIONARY.md` | Markup tag reference |
 
@@ -22,6 +23,7 @@ Development and correction repository for the **_Kṛdantarūpamālā_** (attrib
 |---|---|
 | 2020-03 – 2020-04 | Repository initialized; verb-identification work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-06 | Front-matter OCR + Russian translation of the prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
@@ -120,6 +122,39 @@ flowchart LR
   O -->|csl-pywork build| X["krm.xml"]
   X --> A["csl-app web display"]
 ```
+
+## Front matter (`prefaces/`)
+
+The [`prefaces/`](prefaces/) folder holds an OCR of the **front matter** of the *Kṛdantarūpamālā* across all **five volumes** (1965–1971) — title pages, general prefaces, prefaces, forewords, and the author's portrait page — published by the Samskrit Education Society, Madras. The work was begun by *Śāstraratnākara, Kulapati* Pt. **S. Ramasubba Sastri** and completed after his death by his pupils **V. Srivatsankacharya** and **T. K. Pranatartiharan**, under the supervision of Dr. **V. Raghavan**.
+
+- **Source scans** (CDSL csldoc): `https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/krmpref.html`
+- **Source language: English** (two Sanskrit pages — the vol. 1 Sanskrit title and the vol. 5 author-portrait caption/verse — kept verbatim in Devanāgarī). Because the source is English, there is no separate `.en` edition; the base `.md` is the English. Each page also has a Russian translation (`.ru.md`).
+- **24 pages**, all present (all 24 scans on disk; no pages pending).
+- **Consolidated editions:** [`krmpref_all.en.md`](prefaces/krmpref_all.en.md) (source) · [`krmpref_all.ru.md`](prefaces/krmpref_all.ru.md) (Russian), built reproducibly by [`build_combined.py`](prefaces/build_combined.py).
+- **In-folder index:** [`prefaces/README.md`](prefaces/README.md).
+- **Signatures/dates:** C. P. Ramaswami Aiyar, V. Raghavan, K. Balasubrahmania Iyer (1967, 1968), N. Raghunathan (1971); volume imprints 1965 / 1966 / 1967 / 1968 / 1971.
+- Digitizer running header/footer stamps and library stamps (e.g. Bonn) were omitted as not part of the original.
+
+<details>
+<summary><strong>OCR run notes (2026-06-23)</strong> — cost, timing, and technical lessons</summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process retrospective, not part of the deliverable.
+
+**Context.** Resumed a half-finished job: 24 scans already on disk and pages 01–17 base `.md` already OCR'd by a prior run; no `.ru.md` and no consolidated files existed. The Cologne scan server was down, so this run worked **disk-only** — no downloads.
+
+**Work done this run.** OCR'd the remaining 7 base pages (18–24) from native-resolution crops (≤1900 px bands of the 1892×2834 scans, ≤5 crops/page); wrote Russian translations for **all 24** pages; built the consolidated `*_all.*` editions; wrote the in-folder and root-README indexes.
+
+**Cost (estimate).** Synchronous main-thread run, no subagents. ≈30–35 native-resolution crop reads (7 OCR pages × 3 bands + Devanāgarī tiles) plus 48 page-file writes and 2 combined builds. **Total ≈0.45–0.55 M tokens.**
+
+**Time.** Wall-clock ≈15 min, gated by the per-page crop→read→write loop.
+
+**Technical lessons (reusable):**
+1. Source is **English**, not Sanskrit — only two pages (vol. 1 Sanskrit title, vol. 5 portrait caption/verse) are Devanāgarī. So `.en` is skipped and the source-base files are the English text; the consolidated source edition is tagged `.en`.
+2. `build_combined.py`'s page glob `krmpref[0-9][0-9].md` correctly matches the real `krmprefNN.md` filenames (no `krmNN.md` mismatch here) — verified before building.
+3. A Sanskrit `# heading` quoted **inside** a page body (vol. 1 Sanskrit title in `krmpref02.ru.md`) became a stray top-level `##` after the builder's heading-demotion, inflating the H2 count to 26. Fixed by demoting that inner heading to `##` in the source so it lands at `###`. H2 count is now exactly 25 (1 TOC + 24 pages) in both editions.
+4. The portrait page (24) needed a separate 3× Devanāgarī crop of the caption and benedictory verse to read the conjuncts reliably.
+
+</details>
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
