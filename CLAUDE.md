@@ -16,7 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `verbs01/` | Verb-identification: KRM root ↔ MW / MDP headword mapping |
 | `DATA_DICTIONARY.md` | Markup tag reference |
 | `CITATION.cff` | Citation metadata |
-| `LICENSE` | GPL-3.0 (see **Licensing note** below) |
+| `LICENSE` | Creative Commons Attribution-ShareAlike 4.0 International |
 
 ## Key commands
 
@@ -55,7 +55,7 @@ Annotated example — the first entry of `krm.txt`:
 
 ## Licensing note
 
-The repository `LICENSE` is **GPL-3.0**, while `CITATION.cff` declares **CC BY-SA 4.0** for the dataset. For CDSL dictionary *data* the project standard is CC BY-SA 4.0; GPL-3.0 is the standard for *code*. This discrepancy is preserved as-is and flagged here for a maintainer decision rather than changed unilaterally.
+The repository `LICENSE` and `CITATION.cff` both declare **CC BY-SA 4.0** for this dataset, matching the CDSL dictionary-data standard.
 
 ## GitHub Issue Conventions
 

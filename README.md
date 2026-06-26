@@ -102,7 +102,7 @@ pie showData
 - **Language**: Sanskrit → Sanskrit (grammatical)
 - **Scope**: verb / *kṛdanta* forms only
 - **Entries (digital edition)**: 2,061
-- See [CITATION.cff](CITATION.cff) for machine-readable citation. **Note:** the repository `LICENSE` is GPL-3.0 while `CITATION.cff` declares CC BY-SA 4.0 — see CLAUDE.md.
+- See [CITATION.cff](CITATION.cff) for machine-readable citation. The repository `LICENSE` and `CITATION.cff` both declare CC BY-SA 4.0.
 
 ## Encoding
 
