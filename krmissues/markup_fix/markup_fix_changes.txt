@@ -1,0 +1,15 @@
+; markup_fix log for krm.txt
+; nested: 0
+; whitespace: 5
+; changed: 5
+;
+202 old <s>‘aNgAt kalyARe’ (ga</s>. <s>sU, </s>-5-2-100) <s>iti pAmAditvAt naH pratyayaH . ‘vila</s>-
+202 new <s>‘aNgAt kalyARe’ (ga</s>. <s>sU,</s>-5-2-100) <s>iti pAmAditvAt naH pratyayaH . ‘vila</s>-
+14379 old <note n="1"/><s>jugopAyizam</s> 2 <s>-jugopizam</s> 2, <s>-jugupizam</s> 2 <s>-jugupsam </s>-2, <s>jogupam</s> 2;
+14379 new <note n="1"/><s>jugopAyizam</s> 2 <s>-jugopizam</s> 2, <s>-jugupizam</s> 2 <s>-jugupsam</s>-2, <s>jogupam</s> 2;
+14518 old <s>jugUrdayizitA-trI, jugUrdayizuH </s>;
+14518 new <s>jugUrdayizitA-trI, jugUrdayizuH</s>;
+19591 old <s>jakzizyan-ntI-tI, jakzayizyan-ntI-tI, jijakzizizyan-ntI-tI; </s>-
+19591 new <s>jakzizyan-ntI-tI, jakzayizyan-ntI-tI, jijakzizizyan-ntI-tI;</s>-
+44651 old <sup>10</sup> <s>vantiH, </s>-
+44651 new <sup>10</sup> <s>vantiH,</s>-
