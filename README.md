@@ -1,5 +1,7 @@
 # KRM — *Kṛdantarūpamālā*
 
+_Created: 31-03-2020 · Last updated: 05-07-2026_
+
 Development and correction repository for the **_Kṛdantarūpamālā_** (attributed to Bhaṭṭoji Dīkṣita), a Sanskrit grammatical handbook of *kṛdanta* (primary derivative / participial) verb forms, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/krm/krm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/krm/krm.txt) (2,061 entries); this repository holds verb-identification and correction work.
 
 ## Documentation
@@ -110,6 +112,28 @@ pie showData
 - Sanskrit text in SLP1 transliteration, inside `<s>…</s>` and `{@…@}`/`{%…%}` display markup.
 - Devanāgarī and IAST are generated at display time, not stored in the source.
 
+## Usage example
+
+Applying a correction to the real first entry of [`krm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/krm/krm.txt) with `updateByLine.py` (see root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) "Shared correction pattern"). The real current line 8 reads:
+
+```
+<HI>(1) <s>jaganmAtA parA SaktirBajatAmizwadAyinI .</s>
+```
+
+A change file pairs the old line with its replacement (here illustrating a hypothetical typo fix, `Sakti` → `SaktiH`, addressed by line number):
+
+```
+; change_krm_example.txt
+8 old <HI>(1) <s>jaganmAtA parA SaktirBajatAmizwadAyinI .</s>
+8 new <HI>(1) <s>jaganmAtA parA SaktiHrBajatAmizwadAyinI .</s>
+```
+
+```sh
+python updateByLine.py krm.txt change_krm_example.txt krm_corrected.txt
+```
+
+This is illustrative only (no such correction is queued) — it shows the real pre-existing line 8 as the "before" state and the exact invocation used against `csl-orig/v02/krm/krm.txt`.
+
 ## How it works
 
 ```mermaid
@@ -158,3 +182,5 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
