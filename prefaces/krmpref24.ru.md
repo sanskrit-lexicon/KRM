@@ -18,7 +18,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 (*Śāstraratnākara, Kulapati, Vaiyākaraṇa-sārvabhauma, Brahmaśrī Paṇḍita S. Rāmasubrahmaṇya-śāstri-varyaḥ*)
 
-Стих под портретом (санскрит, сохранён дословно):
+Стих под портретом (санскрит, сохранен дословно):
 
 श्रीरामसुब्रह्मशास्त्रिप्रसृष्टमाला कृदन्तरूपाणाम् ।
 तच्छिष्यैरस्माभिः प्रमथिता सुमनसां प्रीत्यै ॥
