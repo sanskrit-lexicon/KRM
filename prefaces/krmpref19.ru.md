@@ -14,7 +14,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 НАЧАТ
 *Śāstraratnākara, Kulapati* покойным пандитом Ш. Рамасубба Шастри
 *первым главой Учебного центра С. О. Общества, Петтаи*
-*и завершён его учениками*
+*и завершен его учениками*
 В. Шриватсанкачарьей и Т. К. Пранатартихараном
 *пандитами Учебного центра С. О. Общества*
 
@@ -30,7 +30,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 Издано
 
-Шри Т. В. Вишванатха Айяром, *секретарём*
+Шри Т. В. Вишванатха Айяром, *секретарем*
 
 Санскритское образовательное общество, Мадрас
 14, East Mada Street, Mylapore, Madras-4
