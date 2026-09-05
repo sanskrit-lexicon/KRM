@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `krmprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `krmprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/KRM/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -573,3 +575,5 @@ Luz, Mylapore,
 तच्छिष्यैरस्माभिः प्रमथिता सुमनसां प्रीत्यै ॥
 
 (*śrīrāmasubrahma-śāstri-prasṛṣṭamālā kṛdantarūpāṇām | tacchiṣyair asmābhiḥ pramathitā sumanasāṃ prītyai ||* — «Эта гирлянда форм *кṛданта*, начатая Шри Рамасубрахма-шастри, доведена до завершения нами, его учениками, на радость людям доброго сердца».)
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref15.md
@@ -22,3 +24,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Мы надеемся, что с благословения Его Святейшества Шри Чандрашекхарендры Сарасвати Свамигала, Шанкарачарьи Канчи Камакоти Питха, чье вдохновение было нашей главной поддерживающей силой, мы сможем успешно завершить наши начинания.
 
 В. РАГХАВАН.
+
+_Dr. Mārcis Gasūns_

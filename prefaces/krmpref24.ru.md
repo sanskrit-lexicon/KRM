@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref24.md
@@ -24,3 +26,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 तच्छिष्यैरस्माभिः प्रमथिता सुमनसां प्रीत्यै ॥
 
 (*śrīrāmasubrahma-śāstri-prasṛṣṭamālā kṛdantarūpāṇām | tacchiṣyair asmābhiḥ pramathitā sumanasāṃ prītyai ||* — «Эта гирлянда форм *кṛданта*, начатая Шри Рамасубрахма-шастри, доведена до завершения нами, его учениками, на радость людям доброго сердца».)
+
+_Dr. Mārcis Gasūns_

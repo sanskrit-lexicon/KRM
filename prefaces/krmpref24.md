@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1489.jpg
 source_page: Picture of Author
@@ -22,3 +24,5 @@ Verse below the portrait:
 तच्छिष्यैरस्माभिः प्रमथिता सुमनसां प्रीत्यै ॥
 
 (*śrīrāmasubrahma-śāstri-prasṛṣṭamālā kṛdantarūpāṇām | tacchiṣyair asmābhiḥ pramathitā sumanasāṃ prītyai ||* — "This garland of *kṛdanta* forms, set going by Śrī Rāmasubrahma-śāstri, has been brought to completion by us, his pupils, for the delight of the good-minded.")
+
+_Dr. Mārcis Gasūns_

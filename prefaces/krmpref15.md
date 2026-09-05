@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1470.jpg
 source_page: Preface
@@ -20,3 +22,5 @@ As in the case of the earlier volumes, I have been supervising the work and also
 It is our hope that with the blessings of His Holiness Sri Chandrasekharendra Sarasvati Swamigal, Sankaracharya of Kanchi Kamakoti Pitha, whose inspiration has been our main sustaining force, we will be able to complete our undertakings successfully.
 
 V. RAGHAVAN.
+
+_Dr. Mārcis Gasūns_

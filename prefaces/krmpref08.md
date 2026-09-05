@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1435.jpg
 source_page: Preface, 4
@@ -18,3 +20,5 @@ In addition to formulating the lines on which this Concordance should be compile
 The Samskrit Education Society and Sri Ramasubba Sastrigal, the author, might be congratulated on undertaking and accomplishing this big and difficult work. Thanks are due to the Central Sanskrit Board who scrutinised and approved the plan of this work and extended some assistance; in view of the time, labour and expense which this project will involve, it is hoped the Board will continue their interest in this work and give it increased assistance for its early completion.
 
 V. RAGHAVAN
+
+_Dr. Mārcis Gasūns_

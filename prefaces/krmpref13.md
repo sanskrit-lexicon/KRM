@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1468.jpg
 source_page: Foreword, 1
@@ -18,3 +20,5 @@ The Society was very fortunate in securing, in the beginning, the services of th
 Pandit Ramasubba Sastrigal also trained two scholars who were studying under him for this work. Brahmasris V. Srivatsankacharya and Pranatartihara Sarma are very competent pupils of the late Sastrigal, and they have devoted themselves to this work. The first two Volumes brought out during Sastrigal's life time have earned the appreciation of the scholarly world and we have every hope that this Volume also will have the appreciation of the scholars and students of Samskrit.
 
 The word *kṛit* in Vyakarana denotes a class of affixes used to form derivatives namely Nouns, Adjectives etc., from the roots. It also includes participles etc. shown in the work. *Kṛdanta* will mean a *Prātipadika* or a base with this affix, and in this
+
+_Dr. Mārcis Gasūns_

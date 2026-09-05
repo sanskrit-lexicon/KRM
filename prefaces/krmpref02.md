@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1430.jpg
 source_page: Title (Sanskrit), vol. 1
@@ -24,3 +26,5 @@ language: sa
 प्रकाशिता
 
 १९६५
+
+_Dr. Mārcis Gasūns_

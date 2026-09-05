@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1479.jpg
 source_page: Preface
@@ -14,3 +16,5 @@ Thanks are due to Pt. A. M. Srinivasachariar, who has, as in the case of the ear
 The authorities of the Society feel very much encouraged by reviews and notices of the earlier Volumes of this work, such as the one in the *Journal of the American Oriental Society*, Volume 87, April—June 1967.
 
 V. RAGHAVAN.
+
+_Dr. Mārcis Gasūns_

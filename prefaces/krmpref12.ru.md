@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref12.md
@@ -41,3 +43,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 14, East Mada Street, Mylapore, Madras-4
 
 1967
+
+_Dr. Mārcis Gasūns_

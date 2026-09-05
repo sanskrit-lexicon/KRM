@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (source: English, with Sanskrit pages verbatim)
 
-Per-page files: `krmprefNN.md`. Index: [README.md](README.md).
+Per-page files: `krmprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/KRM/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -569,3 +571,5 @@ Verse below the portrait:
 तच्छिष्यैरस्माभिः प्रमथिता सुमनसां प्रीत्यै ॥
 
 (*śrīrāmasubrahma-śāstri-prasṛṣṭamālā kṛdantarūpāṇām | tacchiṣyair asmābhiḥ pramathitā sumanasāṃ prītyai ||* — "This garland of *kṛdanta* forms, set going by Śrī Rāmasubrahma-śāstri, has been brought to completion by us, his pupils, for the delight of the good-minded.")
+
+_Dr. Mārcis Gasūns_

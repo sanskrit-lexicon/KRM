@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref17.md
@@ -31,3 +33,5 @@ Luz, Mylapore,
 
 К. БАЛАСУБРАХМАНЬЯ АЙЯР
 *Президент.*
+
+_Dr. Mārcis Gasūns_

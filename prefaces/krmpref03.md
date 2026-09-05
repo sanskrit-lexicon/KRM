@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1458.jpg
 source_page: General Preface, 1
@@ -12,3 +14,5 @@ The Samskrit Education Society is one of the latest efforts made by lovers of Sa
 In spite of the difficulties of the present situation and the many causes demanding the help and patronage of the philanthropists, we may assert that during the short period of our existence, we have made fairly steady progress, although it is not spectacular. In Pettai, near Madras, we have a large area of land where our buildings are coming up and a Sanskrit advanced study centre is functioning. We have been concentrating in training young Pandits already qualified in one Sastra to become equipped in another Sastra. We have started a few research projects and publication schemes: a *Concordance of Verbal Derivatives*, a *New Model Sanskrit Grammar* and a *Dictionary of Indeclinables*. Another undertaking of ours is the book on *The Teaching of Sanskrit*. This and the *Concordance of Verbal Derivatives*-Part I I had the pleasure of releasing to the public last year.
 
 The maintenance and promotion of Sanskrit study in the schools face two difficulties today, one stemming from the language formulae of the Government which is explicitly unfavourable to Sanskrit and secondly, the lack of improved methods of making its learning easy and popular. The Society may well congratulate itself in having addressed itself to the latter problem and brought out these books written by able and experienced scholars like Pt. S. Ramasubba Sastrigal and Prof. K. Rama Varma Raja. On behalf of the Society, I must also express my appreciation of the services rendered to the Society by Dr. V. Raghavan who has been in general charge of these and other research projects and publications of the Society. What he and others have been
+
+_Dr. Mārcis Gasūns_

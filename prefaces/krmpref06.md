@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1433.jpg
 source_page: Preface, 2
@@ -18,3 +20,5 @@ Apart from devoting its attention to ways and means of deepening the scholarship
 ---
 
 \* *Cf.* Kāśikā and Padamañjarī on VII. 2.22 where they illustrate the word Kaṣṭa by saying कष्टं व्याकरणम् and explain that it is so because it is hard to understand the rules of 'Iḍāgama' etc. व्याकरणस्य कष्टत्वमिडागमादिव्यवस्थायाः दुर्ज्ञानत्वात् ।
+
+_Dr. Mārcis Gasūns_

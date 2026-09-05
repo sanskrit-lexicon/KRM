@@ -1,3 +1,5 @@
+_Created: 30-05-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to the KRM repository's metadata and documentation are recorded here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
@@ -21,3 +23,5 @@ The dictionary source text itself is maintained canonically in `csl-orig`.
 - Community health files: `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
   (Contributor Covenant 2.1), `SECURITY.md`.
 - `LICENSE` (CC BY-SA 4.0) and this `CHANGELOG.md`.
+
+_Dr. Mārcis Gasūns_

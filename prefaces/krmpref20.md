@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1485.jpg
 source_page: Foreword, 1
@@ -12,3 +14,5 @@ The Samskrit Education Society has great pleasure in placing before the public t
 The number of forms to be mastered by the student is formidably large. And as the forms are derived from verbal roots belonging to all the ten conjugations, they display a bewildering variety of peculiarities. So much so this department of Sanskrit grammar may be fairly regarded as being only less difficult than the conjugation of verbs. But it must be remembered that this mode of evolving nouns (mostly action-nouns and agent-nouns) from verbs has contributed greatly to the enrichment of the vocabulary. This resourcefulness in word-formation, combined with the advantage of syntactic precision which goes with an inflected language, has endowed the Sanskrit language with the copiousness of diction, compactness and brevity of expression, and clarity of style, which give it its unique place among the great languages of the world.
 
 While the plea, which is often made, for simplifying the language overlooks this important fact, the need to facilitate its mastery by the provision of all legitimate aids has been kept constantly in mind by the Sanskrit Education Society. It is a matter of great gratification to it that this concordance of verbal derivatives, which has been completed within a reasonable time, considering the stupendousness of the project, has been widely welcomed both by scholars and by practising writers as a valuable work of ready reference. The work is no mechanical compilation. As it was considered unnecessary to repeat in full the forms derived from all the verbal roots which evolve their derivatives in the same way, only seven hundred roots have been dealt with in all fullness. In regard to the rest the analogous root is clearly indicated in every case; while such variations from the norm as there might be in particular forms are fully noted, with citation of
+
+_Dr. Mārcis Gasūns_

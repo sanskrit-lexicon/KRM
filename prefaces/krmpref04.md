@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1459.jpg
 source_page: General Preface, 2
@@ -18,3 +20,5 @@ I wish all success to Sri T. V. Viswanatha Aiyar, Secretary of the Society, who 
 C. P. RAMASWAMI AIYAR
 *President, The Sanskrit
 Education Society, Madras*
+
+_Dr. Mārcis Gasūns_

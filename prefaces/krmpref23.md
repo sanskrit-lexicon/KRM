@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1488.jpg
 source_page: Preface, 2
@@ -19,3 +21,5 @@ The satisfaction is no less for me that one of the several projects which I had 
 
 Madras
 17—4—1971			V. RAGHAVAN
+
+_Dr. Mārcis Gasūns_

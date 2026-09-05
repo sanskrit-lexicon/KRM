@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1461.jpg
 source_page: Preface, 2
@@ -16,3 +18,5 @@ The passing away of Sri Ramasubba Sastrigal has increased the sense of responsib
 It now remains for those connected with the Society to offer their respects to His Holiness and to pray that with the blessings of His Holiness not only will this work be successfully completed but the Samskrit Education Society itself, sanctified by the presence of His Holiness, develop rapidly into an institution of higher learning and advance studies in Sanskrit.
 
 V. RAGHAVAN
+
+_Dr. Mārcis Gasūns_

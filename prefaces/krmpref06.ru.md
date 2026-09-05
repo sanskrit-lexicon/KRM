@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref06.md
@@ -20,3 +22,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 \* *Ср.* Kāśikā и Padamañjarī к VII. 2.22, где они иллюстрируют слово Kaṣṭa, говоря कष्टं व्याकरणम् и поясняя, что это так, поскольку трудно понять правила «*Iḍāgama*» и т. п.: व्याकरणस्य कष्टत्वमिडागमादिव्यवस्थायाः दुर्ज्ञानत्वात् ।
+
+_Dr. Mārcis Gasūns_

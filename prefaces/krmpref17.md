@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1478.jpg
 source_page: Foreword
@@ -29,3 +31,5 @@ Luz, Mylapore,
 
 K. BALASUBRAHMANYA IYER
 *President.*
+
+_Dr. Mārcis Gasūns_

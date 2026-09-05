@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1463.jpg
 source_page: Title, vol. 3
@@ -39,3 +41,5 @@ The Samskrit Education Society, Madras
 14, EAST MADA STREET, MYLAPORE, MADRAS-4
 
 1967
+
+_Dr. Mārcis Gasūns_

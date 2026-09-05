@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1432.jpg
 source_page: Preface, 1
@@ -12,3 +14,5 @@ In addition to evolving sound methods of teaching the language and works compose
 In modern times, the study of Sanskrit has called for the preparation not only of grammars arranged in a new way but also all kinds of 'made-easy' compilations for ready reference and getting at a glance all possible forms. The roots, *Dhātus*, the variety of conjugations, *Guṇa* and *Vṛddhi*, formative augments and the rules and exceptions in their incidence, these constitute a major scare, if we may say so, to students of Sanskrit. One of the tasks on which many modern teachers and authors of popular grammars and handbooks of Sanskrit had always engaged themselves is the compilation of dictionaries of conjugational forms. These varied in completeness and size but the publication of the stupendous *Dhāturatnākara* by the Jain Sadhu Lavaṇyavijaya in seven volumes, which superseded all lesser compilations, forms not only a monumental achievement in the field, but also one of the greatest boons to teachers and students alike of Sanskrit.
 
 The difficulty of the *Dhātus* does not end with their conjugation. The primary derivatives from radical bases, the *Kṛt*-forms,-including participles, infinitives, gerunds and reduplicatives, are not easily comprehended and mastered. Even those
+
+_Dr. Mārcis Gasūns_

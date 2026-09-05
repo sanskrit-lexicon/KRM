@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1469.jpg
 source_page: Foreword, 2
@@ -27,3 +29,5 @@ Luz, Mylapore
 K. BALASUBRAHMANIA IYER
 *President*
 Samskrit Education Society, Madras.
+
+_Dr. Mārcis Gasūns_

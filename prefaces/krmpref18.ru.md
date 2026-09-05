@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref18.md
@@ -16,3 +18,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Авторитетные деятели Общества весьма воодушевлены отзывами и заметками о более ранних томах этого труда, такими как заметка в *Journal of the American Oriental Society*, том 87, апрель—июнь 1967 года.
 
 В. РАГХАВАН.
+
+_Dr. Mārcis Gasūns_

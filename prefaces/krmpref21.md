@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1486.jpg
 source_page: Foreword, 2
@@ -15,3 +17,5 @@ The Society is shortly bringing out a comprehensive *Avyaya Kosa*. Plans have be
 
 N. RAGHUNATHAN,
 May, 1971. *(President of the Society)*.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref02.md
@@ -29,3 +31,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 प्रकाशिता
 
 १९६५
+
+_Dr. Mārcis Gasūns_

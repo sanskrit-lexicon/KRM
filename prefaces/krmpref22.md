@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: krm1487.jpg
 source_page: Preface, 1
@@ -14,3 +16,5 @@ As in the case of previous volumes, I have supervised the work and read the proo
 Some additional aids to the study of the Roots recently published have also been used e.g. the *Pāṇinīya-dhātupāṭha-samīkṣa* by Dr. Bhagirath Prasad Tripathi, Varanaseya Sanskrit University and the Sanskrit version of Canna Vira's Kannada work on Kāśakṛtsna's *Dhātupāṭha* (*Kāśakṛtsna-Dhātuvyākhyānam*, Ajmer) by Sri Yudhishthira Mimamsaka.
 
 The bibliography of works, ancient and modern, utilised for this project has been given in the first volume. Several other publications have also been consulted during the course of the work in the subsequent volumes, and these are cited without any abbreviation symbols. Among all these, three texts should be specially
+
+_Dr. Mārcis Gasūns_

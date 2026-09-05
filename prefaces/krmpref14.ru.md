@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: krmpref14.md
@@ -29,3 +31,5 @@ Luz, Mylapore
 К. БАЛАСУБРАХМАНИЯ АЙЯР
 *Президент*
 Санскритское образовательное общество, Мадрас.
+
+_Dr. Mārcis Gasūns_
