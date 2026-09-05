@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **KRM** is the development and correction repository for the **_Kṛdantarūpamālā_** (attributed to Bhaṭṭoji Dīkṣita), a Sanskrit grammatical handbook of *kṛdanta* (primary derivative / participial) verb forms, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/krm/krm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/krm/krm.txt) (2,061 entries) — corrections are applied there, not stored here.
+- **Canonical source text**: [`csl-orig/v02/krm/krm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/krm/krm.txt) (2,061 entries) — corrections are applied there, not stored here.
 - This repository holds **verb-identification** work mapping KRM roots to MW and Mādhavīya-Dhātuvṛtti (MDP) headwords.
 
 ## Architecture
