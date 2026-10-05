@@ -1,5 +1,7 @@
 # KRM — *Kṛdantarūpamālā*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151348.svg)](https://doi.org/10.5281/zenodo.23151348)
+
 _Created: 31-03-2020 · Last updated: 11-07-2026_
 
 Development and correction repository for the **_Kṛdantarūpamālā_** (attributed to Bhaṭṭoji Dīkṣita), a Sanskrit grammatical handbook of *kṛdanta* (primary derivative / participial) verb forms, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/krm/krm.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/krm/krm.txt) (2,061 entries); this repository holds verb-identification and correction work.
